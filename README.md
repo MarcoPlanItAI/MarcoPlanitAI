@@ -2,7 +2,7 @@
 
 블로그 플랫폼 운영
 <br />
-[https://blog.happykoo.net (https://blog.happykoo.net)]
+[https://blog.happykoo.net] (https://blog.happykoo.net)
 
 
 개인 블로그
