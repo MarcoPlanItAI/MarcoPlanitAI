@@ -7,4 +7,4 @@
 
 개인 블로그
 <br />
-[![https://happykoo.net/@happykoo] ((https://happykoo.net/@happykoo))]
+[https://happykoo.net/@happykoo](https://happykoo.net/@happykoo)
