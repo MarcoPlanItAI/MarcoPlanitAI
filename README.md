@@ -8,3 +8,8 @@
 개인 블로그
 <br />
 [https://happykoo.net/@happykoo](https://happykoo.net/@happykoo)
+
+
+학부시절 github 블로그
+<br />
+[https://kookyungmin.github.io]([https://kookyungmin.github.io)
